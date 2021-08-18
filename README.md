@@ -1,2 +1,2 @@
 # Shop-of-goods-for-manicure
-Projct for Epam
+Final project for Epam
